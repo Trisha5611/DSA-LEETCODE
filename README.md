@@ -6,19 +6,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0075-sort-colors) |
 | [0594-longest-harmonious-subsequence](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
+| [2747-count-zero-request-servers](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/2747-count-zero-request-servers) |
 ## Hash Table
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
+| [2747-count-zero-request-servers](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/2747-count-zero-request-servers) |
 ## Sliding Window
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
+| [2747-count-zero-request-servers](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/2747-count-zero-request-servers) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0075-sort-colors) |
 | [0594-longest-harmonious-subsequence](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
+| [2747-count-zero-request-servers](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/2747-count-zero-request-servers) |
 ## Counting
 |  |
 | ------- |
