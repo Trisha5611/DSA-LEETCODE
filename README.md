@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0075-sort-colors) |
 | [0594-longest-harmonious-subsequence](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
+| [1882-process-tasks-using-servers](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/1882-process-tasks-using-servers) |
 | [2747-count-zero-request-servers](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/2747-count-zero-request-servers) |
 ## Hash Table
 |  |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0002-add-two-numbers) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1882-process-tasks-using-servers](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/1882-process-tasks-using-servers) |
 <!---LeetCode Topics End-->
