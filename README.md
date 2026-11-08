@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0075-sort-colors](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0075-sort-colors) |
 | [0594-longest-harmonious-subsequence](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
+| [1267-count-servers-that-communicate](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/1267-count-servers-that-communicate) |
 | [1882-process-tasks-using-servers](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/1882-process-tasks-using-servers) |
 | [2747-count-zero-request-servers](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/2747-count-zero-request-servers) |
 ## Hash Table
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
+| [1267-count-servers-that-communicate](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/1267-count-servers-that-communicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -71,4 +73,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0014-longest-common-prefix) |
+## Depth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/1267-count-servers-that-communicate) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/1267-count-servers-that-communicate) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/1267-count-servers-that-communicate) |
+## Matrix
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
