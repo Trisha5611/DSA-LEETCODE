@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0075-sort-colors](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0075-sort-colors) |
 ## Quicksort
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0030-substring-with-concatenation-of-all-words) |
 ## Linked List
@@ -89,4 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/1267-count-servers-that-communicate) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
