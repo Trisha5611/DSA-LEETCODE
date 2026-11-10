@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [1267-count-servers-that-communicate](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/1267-count-servers-that-communicate) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0169-majority-element](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [2747-count-zero-request-servers](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/2747-count-zero-request-servers) |
@@ -39,11 +41,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [2747-count-zero-request-servers](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/2747-count-zero-request-servers) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [1267-count-servers-that-communicate](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/1267-count-servers-that-communicate) |
 ## Two Pointers
@@ -130,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0169-majority-element) |
 ## Merge Sort
 |  |
 | ------- |
@@ -142,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0035-search-insert-position) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
