@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0147-insertion-sort-list](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0147-insertion-sort-list) |
 | [0169-majority-element](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [2747-count-zero-request-servers](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/2747-count-zero-request-servers) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0023-merge-k-sorted-lists) |
+| [0147-insertion-sort-list](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0147-insertion-sort-list) |
 ## Math
 |  |
 | ------- |
