@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0187-repeated-dna-sequences](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0187-repeated-dna-sequences) |
 ## Linked List
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0020-valid-parentheses) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Segment Tree
 |  |
@@ -246,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
