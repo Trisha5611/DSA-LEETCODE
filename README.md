@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0187-repeated-dna-sequences](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0187-repeated-dna-sequences) |
 ## Linked List
 |  |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0032-longest-valid-parentheses) |
 ## Manacher
 |  |
 | ------- |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Segment Tree
 |  |
@@ -264,4 +267,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
