@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0187-repeated-dna-sequences](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0187-repeated-dna-sequences) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Ordered Set
 |  |
 | ------- |
