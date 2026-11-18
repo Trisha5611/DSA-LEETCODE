@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0043-multiply-strings) |
 | [0079-word-search](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0079-word-search) |
 | [0187-repeated-dna-sequences](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0187-repeated-dna-sequences) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/2243-calculate-digit-sum-of-a-string) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0043-multiply-strings) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Recursion
 |  |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0043-multiply-strings) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Ordered Set
