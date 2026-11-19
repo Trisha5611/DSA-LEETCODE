@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0088-merge-sorted-array) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0048-rotate-image) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Recursion
 |  |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0079-word-search) |
 | [1267-count-servers-that-communicate](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/1267-count-servers-that-communicate) |
 ## Dynamic Programming
