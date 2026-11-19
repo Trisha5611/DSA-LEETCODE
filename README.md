@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0045-jump-game-ii) |
 | [0075-sort-colors](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0088-merge-sorted-array) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0045-jump-game-ii) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Manacher
 |  |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0045-jump-game-ii) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Bit Manipulation
