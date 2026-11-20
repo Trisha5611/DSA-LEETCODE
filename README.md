@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1882-process-tasks-using-servers](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/1882-process-tasks-using-servers) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/2747-count-zero-request-servers) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/2747-count-zero-request-servers) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Counting
 |  |
 | ------- |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0045-jump-game-ii) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Manacher
 |  |
 | ------- |
