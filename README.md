@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0643-maximum-average-subarray-i) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0187-repeated-dna-sequences) |
+| [0217-contains-duplicate](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0147-insertion-sort-list) |
 | [0169-majority-element](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0217-contains-duplicate) |
 | [0594-longest-harmonious-subsequence](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/2567-minimum-score-by-changing-two-elements) |
