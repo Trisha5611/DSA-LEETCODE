@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [2747-count-zero-request-servers](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/2747-count-zero-request-servers) |
 ## Sliding Window
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [2747-count-zero-request-servers](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/2747-count-zero-request-servers) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0567-permutation-in-string](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0567-permutation-in-string) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Quicksort
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0079-word-search) |
 | [0187-repeated-dna-sequences](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0187-repeated-dna-sequences) |
+| [0567-permutation-in-string](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0567-permutation-in-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
