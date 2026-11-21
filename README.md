@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0088-merge-sorted-array) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0053-maximum-subarray) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Manacher
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0169-majority-element) |
 ## Merge Sort
 |  |
