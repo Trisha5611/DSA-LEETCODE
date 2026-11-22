@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0056-merge-intervals) |
+| [0074-search-a-2d-matrix](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0088-merge-sorted-array) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0079-word-search) |
 | [1267-count-servers-that-communicate](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/1267-count-servers-that-communicate) |
 ## Dynamic Programming
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Boyer–Moore Majority Vote Algorithm
