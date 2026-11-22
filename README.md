@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0217-contains-duplicate) |
 | [0594-longest-harmonious-subsequence](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0148-sort-list) |
 | [0567-permutation-in-string](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0567-permutation-in-string) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0147-insertion-sort-list](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0148-sort-list) |
 ## Math
 |  |
 | ------- |
@@ -268,11 +271,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0169-majority-element) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0148-sort-list) |
 ## Tournament Sort
 |  |
 | ------- |
