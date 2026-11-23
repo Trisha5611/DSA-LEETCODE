@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [1267-count-servers-that-communicate](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/1267-count-servers-that-communicate) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/1882-process-tasks-using-servers) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0050-powx-n) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Recursion
 |  |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 ## Bracket Sequences
 |  |
@@ -407,4 +410,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0098-validate-binary-search-tree) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
