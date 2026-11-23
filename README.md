@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0079-word-search) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/0066-plus-one) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Trisha5611/DSA-LEETCODE/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Recursion
